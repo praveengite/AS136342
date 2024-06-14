@@ -1,6 +1,8 @@
 #RFC8805,,,,
 #For AS136342,,,,
 "#prefix,country_code,region_code,city,postal",,,,
+103.127.184.128/30,IN,IN-MP,Khandwa,450001
+103.127.184.240/28,IN,IN-MP,Khandwa,450001
 103.127.184.0/24,IN,IN-MP,Bhopal,462001
 103.127.185.0/24,IN,IN-MP,Bhopal,462001
 103.127.186.0/24,IN,IN-MP,Indore,452001
